@@ -50,4 +50,3 @@ More documentation
 Please see the sphinx/source directory for more documentation, and the pyfixmsg/examples.py file for 
 many examples
 
-
